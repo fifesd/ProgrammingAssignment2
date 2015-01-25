@@ -1,5 +1,7 @@
 ## Functions to set, retrieve, and calculate the inverse of a reversible matrix. 
 ## cacheSolve requires makeCacheMatrix to be run on the dataset first and cacheSolve may be run on that result
+## Based on code for caching the mean of a vector from R Programming: Programming Assignment 2 by:
+## by Roger D. Peng, PhD, Jeff Leek, PhD, Brian Caffo, PhD
 
 
 ## Methods to cache, set, and retrieve the inverse of a matrix
